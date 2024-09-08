@@ -29,13 +29,11 @@
             border-radius: 30px;
             padding-left: 20px;
             margin-bottom: 25px;
-            ;
-
             input {
                 padding: 10px;
                 outline: none;
-                width: 100%; 
-                box-sizing: border-box; 
+                width: 100%;
+                box-sizing: border-box;
             }
 
             button {
@@ -45,8 +43,8 @@
                 color: #fff;
                 cursor: pointer;
                 border-radius: 40px;
-                width: 200px; 
-                box-sizing: border-box; 
+                width: 200px;
+                box-sizing: border-box;
             }
         }
 
@@ -73,7 +71,7 @@
         }
 
         ul li::before {
-            content: '';
+            content: "";
             position: absolute;
             height: 28px;
             width: 28px;
@@ -105,4 +103,3 @@
         }
     }
 }
-
